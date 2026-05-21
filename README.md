@@ -5,6 +5,9 @@
 Department of Data Science and Artificial Intelligence, Monash University, Australia
 
 This repository contains the python code and resources accompanying the paper.
+<p align="center">
+    <img src="Fig/overview.png">
+</p>
 
 
 ## Overview
