@@ -1,12 +1,11 @@
-# Modeling and Detecting Cognitive and Physical Deterioration in Seniors from Data Obtained by Unintrusive Sensors
 
-This repository contains the code and resources accompanying the paper:
 
-> **Modeling and Detecting Cognitive and Physical Deterioration in Seniors from Data Obtained by Unintrusive Sensors – A Pilot Study**  
-> Yueyi Ge, Ingrid Zukerman, and Mahsa Salehi  
-> Department of Data Science and Artificial Intelligence, Monash University, Australia
+## Modeling and Detecting Cognitive and Physical Deterioration in Seniors from Data Obtained by Unintrusive Sensors – A Pilot Study 
+#### Authors: Yueyi Ge, [Ingrid Zukerman](https://research.monash.edu/en/persons/ingrid-zukerman/), and [Mahsa Salehi](https://research.monash.edu/en/persons/mahsa-salehi/)  
+Department of Data Science and Artificial Intelligence, Monash University, Australia
 
----
+This repository contains the python code and resources accompanying the paper.
+
 
 ## Overview
 
