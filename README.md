@@ -36,7 +36,7 @@ Evaluation on a pilot dataset demonstrated promising results, with anomalies bei
 
 .
 
-├── notebooks/          # Jupyter notebooks for experiments and analysis
+├── notebooks/          # Jupyter notebooks for models, experiments and analysis
 
 ├── data/               # Sample datasets and README on how data can be accessed
 
